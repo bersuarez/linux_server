@@ -2,7 +2,7 @@
 An Ubuntu instance was created using AWS Lightsail and ocnfigured to hot a flask app with all the appropiate security measures. 
 
 ## Access
-Static IP Address: `34.195.4.45``
+Static IP Address: `34.195.4.45`
 SSH port: `22`
 URL: `demo.suarez.pw`
 
