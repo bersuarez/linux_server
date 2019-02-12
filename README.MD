@@ -15,7 +15,7 @@ URL: `demo.suarez.pw`
 * Configured RSA keypair access
 * Disabled password login
 * Configured new public domain
-### Installations made:
+#### Resources used:
 * Apache2
 * mod_wsgi
 * SQLAlchemy
