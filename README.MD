@@ -1,5 +1,5 @@
 # LINUX SERVER CONFIGURATION
-An Ubuntu instance was created using AWS Lightsail and ocnfigured to hot a flask app with all the appropiate security measures. 
+An Ubuntu instance was created using AWS Lightsail and configured to host a flask app with all the appropiate security measures. 
 
 ## Access
 Static IP Address: `34.195.4.45`
